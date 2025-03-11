@@ -1,4 +1,5 @@
 from PyQt5.QtWidgets import *
+from PyQt5.QtCore import Qt  # Qt.CaseInsensitive için eklendi
 import sys
 
 class Window(QWidget):
@@ -10,6 +11,8 @@ class Window(QWidget):
         # auto complete options                                                 
         names = ["Apple", "Alps", "Berry", "Cherry","Deniz","Efe" ]
         completer = QCompleter(names)
+        # Büyük/küçük harf duyarsızlığı için:
+        completer.setCaseSensitivity(Qt.CaseInsensitive)
 
         # create line edit and add auto complete                                
         self.lineedit = QLineEdit()
