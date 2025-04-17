@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>504</width>
+    <height>394</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>110</y>
+      <width>151</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1181</width>
+      <height>851</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>504</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuYeni">
+    <property name="title">
+     <string>Yeni</string>
+    </property>
+    <addaction name="actionYeni"/>
+    <addaction name="actionA"/>
+    <addaction name="actionKaydet"/>
+   </widget>
+   <widget class="QMenu" name="menuA">
+    <property name="title">
+     <string>Aç</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menuKapat">
+    <property name="title">
+     <string>Kapat</string>
+    </property>
+   </widget>
+   <addaction name="menuYeni"/>
+   <addaction name="menuA"/>
+   <addaction name="menuKapat"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionKes"/>
+   <addaction name="actionKopyala"/>
+   <addaction name="actionYap_t_r"/>
+   <addaction name="actionKal_n"/>
+   <addaction name="action_talik"/>
+   <addaction name="actionAlt_izili"/>
+  </widget>
+  <action name="actionKes">
+   <property name="text">
+    <string>Kes</string>
+   </property>
+   <property name="toolTip">
+    <string>Kesme</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+X</string>
+   </property>
+  </action>
+  <action name="actionKopyala">
+   <property name="text">
+    <string>Kopyala</string>
+   </property>
+   <property name="toolTip">
+    <string>Kopyala</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+C</string>
+   </property>
+  </action>
+  <action name="actionYap_t_r">
+   <property name="text">
+    <string>Yapıştır</string>
+   </property>
+   <property name="toolTip">
+    <string>Yapıştır</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+V</string>
+   </property>
+  </action>
+  <action name="actionKal_n">
+   <property name="text">
+    <string>Kalın</string>
+   </property>
+   <property name="toolTip">
+    <string>Kalın</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+K</string>
+   </property>
+  </action>
+  <action name="action_talik">
+   <property name="text">
+    <string>İtalik</string>
+   </property>
+   <property name="toolTip">
+    <string>İtalik</string>
+   </property>
+  </action>
+  <action name="actionAlt_izili">
+   <property name="text">
+    <string>Altıçizili</string>
+   </property>
+   <property name="toolTip">
+    <string>Altıçizili</string>
+   </property>
+  </action>
+  <action name="actionYeni">
+   <property name="text">
+    <string>Yeni</string>
+   </property>
+  </action>
+  <action name="actionA">
+   <property name="text">
+    <string>Aç</string>
+   </property>
+  </action>
+  <action name="actionKaydet">
+   <property name="text">
+    <string>Kaydet</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
