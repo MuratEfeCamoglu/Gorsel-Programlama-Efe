@@ -1,0 +1,101 @@
+[
+  {
+    "question": "efe",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "A",
+    "answers": [
+      "SS",
+      "SAAS",
+      "ASA",
+      "ASA",
+      "ASAS"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "ASAS",
+    "answers": [
+      "ASA",
+      "SAS",
+      "ASAS",
+      "ASA",
+      "ASA"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ömer",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "dsdsds",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "f",
+      "e"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "a",
+    "answers": [
+      "a",
+      "a",
+      "a",
+      "a",
+      "a"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "asa",
+    "answers": [
+      "asa",
+      "sasa",
+      "asas",
+      "asa",
+      "sa"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "a",
+    "answers": [
+      "a",
+      "a",
+      "a",
+      "a",
+      "a"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "adsa",
+    "answers": [
+      "sasa",
+      "sasa",
+      "sas",
+      "sas",
+      "asa"
+    ],
+    "correct": 2
+  }
+]

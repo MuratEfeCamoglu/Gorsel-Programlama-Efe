@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SoruEkleme</class>
+ <widget class="QWidget" name="SoruEkleme">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>490</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Soru Ekleme</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QTableWidget" name="tableQuestions">
+     <column>
+      <property name="text">
+       <string>Soru</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>A</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>B</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>C</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>D</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>E</string>
+      </property>
+     </column>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="pushButton">
+     <property name="text">
+      <string>Yazdır</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
