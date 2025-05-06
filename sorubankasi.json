@@ -97,5 +97,192 @@
       "asa"
     ],
     "correct": 2
+  },
+  {
+    "question": "Ömer  hangi etnik kökendir",
+    "answers": [
+      "Türk",
+      "Yörük",
+      "Kürt",
+      "Rum",
+      "Boşnak"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "a",
+    "answers": [
+      "a",
+      "a",
+      "a",
+      "a",
+      "a"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "a",
+    "answers": [
+      "a",
+      "a",
+      "a",
+      "c",
+      "a"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "asasa",
+    "answers": [
+      "asas",
+      "as",
+      "asa",
+      "sasas",
+      "asa"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "sasas",
+    "answers": [
+      "sas",
+      "asa",
+      "asas",
+      "sas",
+      "asa"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "sasasasa",
+    "answers": [
+      "s",
+      "as",
+      "asasas",
+      "sasas",
+      "asasasas"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "sasasasasa",
+    "answers": [
+      "sas",
+      "as",
+      "asa",
+      "sas",
+      "a"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "asasa",
+    "answers": [
+      "sas",
+      "",
+      "a",
+      "sasda",
+      "a"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "sa",
+    "answers": [
+      "sa",
+      "",
+      "asada",
+      "asa",
+      "s"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "a",
+    "answers": [
+      "sdda",
+      "asa",
+      "sasasas",
+      "sasa",
+      "asa"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "asa",
+    "answers": [
+      "sas",
+      "sasa",
+      "asas",
+      "aada",
+      "asasaa"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "sas",
+    "answers": [
+      "sdads",
+      "ad",
+      "as",
+      "asasa",
+      "ssa"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "sasasa",
+    "answers": [
+      "as",
+      "as",
+      "asas",
+      "asa",
+      "asas"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "asa",
+    "answers": [
+      "dsas",
+      "sa",
+      "ssa",
+      "sas",
+      "sas"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "sasas",
+    "answers": [
+      "s",
+      "asas",
+      "as",
+      "a",
+      "asa"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "dss",
+    "answers": [
+      "sds",
+      "dsd",
+      "sds",
+      "dss",
+      "sds"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "dsssd",
+    "answers": [
+      "dssd",
+      "dsd",
+      "ds",
+      "sds",
+      "sd"
+    ],
+    "correct": 1
   }
 ]
